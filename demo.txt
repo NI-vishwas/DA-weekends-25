@@ -1,0 +1,5 @@
+Calcuate the total salary of an employee including the diwali bonus
+1. get the current salary of employee( get_current_salary)
+2. calculate the bonus amount using current salary & bonus % (calculate_bonus_amount(current_salary))
+3. add the bonus amount to the salary & credit it (get_total_salary())
+
